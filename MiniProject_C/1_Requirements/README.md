@@ -32,7 +32,7 @@ Whenever the library work needd to be done according to requirement.
 ## Why
 * It will Reduced manual work as most of the work done by computer. As all the manual work will be done automatically so it will increase work speed and reduce time consumption to complete any library related work.
 ## How
-# A person can carry out the following works
+### A person can carry out the following works
 * Create new account – To create a new account by taking information from the user.
 * User can issue a book by giving book id
 * librarian can see the details of books isssued
