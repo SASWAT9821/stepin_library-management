@@ -1,7 +1,4 @@
 # Requirements
+* In this project the user is able to access library management system for creating new account, check and update details of an existing account, view and manage details of books issued.
 
-* Capture all the requirements wrt system, module, interface, integration, testing, Functional and Non-functional
-* Captures Basic Planning of the project through - Sample Gantt Chart attached
-
-* Tools: MS Excel, MS word or Similar
 
