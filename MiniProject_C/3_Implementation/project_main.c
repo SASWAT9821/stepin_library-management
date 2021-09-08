@@ -1,5 +1,4 @@
 /* LIbrary. management system
-by codeclub
 
 */
 #include <windows.h>		
