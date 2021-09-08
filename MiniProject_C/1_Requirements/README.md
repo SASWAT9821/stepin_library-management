@@ -1,6 +1,6 @@
 # Requirements
 * In this project the user is able to access library management system for creating new account, check and update details of an existing account, view and manage details of books issued.
-## Objectives
+# Objectives
 * A person can carry out the following works
 
 * Create new account – To create a new account by taking information from the user.
@@ -9,8 +9,8 @@
 * Account information – It will display all informations of an existing accounts
 * Press enter always to come back to main menu
 * Clearing the output screen and display available options again
-## SWOT ANALYSIS
-# Strengths
+# SWOT ANALYSIS
+## Strengths
 * Using this library management system any information can be easily searched. User can view all the details of the students
 * Make easier to get the details of the project and reduce the paper work
 ## Weakness
@@ -22,17 +22,17 @@
 # Threats
 * If user enters a wrong input value then it can't be revert back, i.e can"t go to previous step and edit the details, he/she need to clear all and then again enter the correct values
 * Data breach can occur as no security process is available
-## 4 W's and 1 H
-# Who
+# 4 W's and 1 H
+## Who
 * Anyone who want to carry out library work efficiently.
-# What
+## What
 * In this project the user is able to access Online library management system for creating new account, check and update details of an existing account, view and manage all the details of students
-# When
+## When
 Whenever the library work needd to be done according to requirement.
-# Why
+## Why
 * It will Reduced manual work as most of the work done by computer. As all the manual work will be done automatically so it will increase work speed and reduce time consumption to complete any library related work.
-# How
-## A person can carry out the following works
+## How
+# A person can carry out the following works
 * Create new account – To create a new account by taking information from the user.
 * User can issue a book by giving book id
 * librarian can see the details of books isssued
